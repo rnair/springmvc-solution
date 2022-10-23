@@ -7,7 +7,7 @@
 </head>
 <h3>Update Employee</h3>
 <body>
-	<div id="dialog-message" title="Add Employee"></div>
+	<div id="dialog-message" title="Update Employee"></div>
 
 	<form:form id="updateForm"
 		action="${pageContext.request.contextPath}/employee/update"
